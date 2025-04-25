@@ -3,42 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Shivam Kumar's Portfolio</title>
-  <style>
-    body {
-      background-color: black;
-      color: white;
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-    }
-
-    h1, h3 {
-      text-align: center;
-    }
-
-    a {
-      color: #1e90ff;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    img {
-      background-color: white;
-      border-radius: 5px;
-      margin: 5px;
-    }
-
-    p {
-      line-height: 1.6;
-    }
-
-    .section {
-      margin-bottom: 30px;
-    }
-  </style>
 </head>
 <body>
 
