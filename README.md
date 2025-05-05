@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Shivam Kumar's Portfolio</title>
+  Shivam Kumar's Portfolio
 </head>
 <body>
 
