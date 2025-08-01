@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer </h3>
 
----
-
-### 👯 I’m looking to collaborate on **web development project**
-
-### 📫 How to reach me: [shivamk2000.com@gmail.com](mailto:shivamk2000.com@gmail.com)
 
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me:  [shivamdevthakur@gmail.com](mailto:shivamk2000.com@gmail.com)
 <!-- Add your LinkedIn, Twitter, etc. here when ready -->
 
 ---
